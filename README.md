@@ -1,16 +1,29 @@
-# toku
+# 🧠 Toku - Japanese Learning App for Kids 🇯🇵
 
-A new Flutter project.
+Toku is a colorful and interactive Flutter app that helps children learn Japanese through sounds, images, and categories like numbers, family members, colors, and phrases.
 
-## Getting Started
+## 📱 Screenshots
+<img src="assets/images/app_screens/1 (2).jpg" width="250"/>
+<img src="assets/images/app_screens/2 (2).jpg" width="250"/>
+<img src="assets/images/app_screens/3.jpg" width="250"/>
+<img src="assets/images/app_screens/4.jpg" width="250"/>
+<img src="assets/images/app_screens/5.jpg" width="250"/>
+<img src="assets/images/app_screens/6.jpg" width="250"/>
 
-This project is a starting point for a Flutter application.
+## 🎯 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📚 Categories: Numbers, Colors, Family Members, Phrases
+- 🔊 Audio pronunciation for each word in Japanese
+- 🖼️ Friendly images to help kids remember easily
+- 💜 Colorful UI with simple design
+- 📱 Fully responsive on different screen sizes
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Getting Started
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To run the project locally:
+
+```bash
+git clone https://github.com/yourusername/toku_app.git
+cd toku_app
+flutter pub get
+flutter run
